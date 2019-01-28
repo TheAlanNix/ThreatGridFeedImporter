@@ -74,7 +74,7 @@ THREAT_GRID_FEED_URL = "https://panacea.threatgrid.com/api/v3/feeds"
 THREAT_GRID_FEEDS = {
     "autorun-registry": "Autorun Registry Malware",
     "banking-dns": "Banking Trojans",
-    "dga-dns": "Domain Generation Algorithms",
+    "dga-dns": "Domain Generation Algorithm Destinations",
     "dll-hijacking-dns": "DLL Hijackers / Sideloaders",
     "doc-net-com-dns": "Document File Network Communication",
     "downloaded-pe-dns": "Dropper Communication",
